@@ -11,7 +11,7 @@
 [![Gmail 1](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davypedro@mat.ci.ufpb.br)
 [![Gmail 2](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davypedro7@gmail.com)
 
-# __Data Science and Artificial Intelligence__
+## __Data Science and Artificial Intelligence__
 
 - [Data Science and Artificial Intelligence](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
 
