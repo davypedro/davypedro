@@ -4,11 +4,11 @@
 
 ### Certainly one of the few programmers who doesn't drink coffee.
 
-## __Professional life:
+## Professional life:
 
-###[Data Science and Artificial Intelligence](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
+### [Data Science and Artificial Intelligence](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
 
-###I am currently a [Data Analyst Engineer](https://dataform.co/blog/what-do-analytics-engineers-do) at [Dock](https://dock.tech/en/)
+### I am currently a [Data Analyst Engineer](https://dataform.co/blog/what-do-analytics-engineers-do) at [Dock](https://dock.tech/en/)
 
 ---
 
