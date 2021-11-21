@@ -1,6 +1,16 @@
-# Hi! My name is Davy Pedro, but everyone calls me Pedro 
+# Hi! My name is Davy Pedro, but everyone calls me Pedro
+
+---
 
 ### Certainly one of the few programmers who doesn't drink coffee.
+
+## __Professional life:
+
+###[Data Science and Artificial Intelligence](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
+
+###I am currently a [Data Analyst Engineer](https://dataform.co/blog/what-do-analytics-engineers-do) at [Dock](https://dock.tech/en/)
+
+---
 
 ## Meet me:
 
@@ -11,15 +21,7 @@
 [![Gmail 1](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davypedro@mat.ci.ufpb.br)
 [![Gmail 2](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davypedro7@gmail.com)
 
-## __Data Science and Artificial Intelligence__
-
-- [Data Science and Artificial Intelligence](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
-
-- I am currently a [Data Analyst Engineer](https://dataform.co/blog/what-do-analytics-engineers-do) at [Dock](https://dock.tech/en/)
-
-
 ---
-
 
 ## Languages, Tools and Technologies
 
@@ -41,10 +43,11 @@
 ![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+---
 
 ## GitHub Status
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=davypedro&show_icons=true&theme=dracula)
+![Pedro GitHub status](https://github-readme-stats.vercel.app/api?username=davypedro&show_icons=true&theme=dracula)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davypedro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
