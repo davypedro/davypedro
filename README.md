@@ -2,8 +2,6 @@
 
 ### (this is my new account. There are still some repositories remaining)
 
----
-
 ### Certainly one of the few programmers who doesn't drink coffee.
 
 ## Professional life:
