@@ -1,4 +1,4 @@
-# Hi! My name is Davy Pedro, but everyone calls me Pedro 
+# About
 
 ### (this is my new account. There are still some repositories remaining)
 
