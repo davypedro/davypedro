@@ -3,9 +3,11 @@
 * C
 * C++
 * SQL
-* SQL Server
+* Amazon Redshift
 * Databricks
-* JupyterLab/Colab
+* JupyterLab
+* Colab
+* DBT
 * PySpark
 * Pandas
 * Numpy
