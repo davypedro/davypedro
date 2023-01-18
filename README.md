@@ -1,20 +1,25 @@
 ## Languages and Tools
-* Python
-* C
-* C++
-* SQL
-* Amazon Redshift
-* Databricks
-* JupyterLab
-* Colab
-* DBT
-* PySpark
-* Pandas
-* Numpy
-* Scikit-learn
-* Matplotlib
-* Plotly
-* Power BI
+
+- Python Programming
+- Python para análise de dados com Pandas e Matplotlib
+- SQL
+- DBT
+- Apache Spark - PySpark
+- Azure Databricks
+- Azure Data Lake
+- Apache Airflow
+- ETL
+- AWS (Amazon Web Services):
+ - Athena
+ - S3
+ - EMR
+ - Glue
+ - Redshift
+- Git e Github
+- Noções de Machine Learning
+- Noções de Deep Learning
+- Visualização de dados com Metabase e ferramentas similares
+- Scrum 
 
 ## 📫 Find me
 [![Gmail](https://imgur.com/RpheCdT.png)](davypedro@mat.ci.ufpb.br) &ensp;
