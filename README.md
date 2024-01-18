@@ -4,11 +4,13 @@
 - Python para análise de dados com Pandas e Matplotlib
 - SQL
 - DBT
-- Apache Spark - PySpark
+- Apache Spark (PySpark)
 - Azure Databricks
 - Azure Data Lake
+- Azure Data Factory
 - Apache Airflow
 - ETL
+- ELT
 - AWS (Amazon Web Services):
  - Athena
  - S3
